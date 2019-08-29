@@ -40,6 +40,7 @@ background:#66CC66;
   </div>
    <div id="sidebar">
   <p>test</p>
+	   <p>tes2</p>
   </div>
   <div id="content">
  <table>
