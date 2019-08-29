@@ -39,7 +39,7 @@ background:#66CC66;
     <h2>Biodata</h2>
   </div>
    <div id="sidebar">
-   <img src="foto/bebas4x6mera.jpg" width="200px" class="circle" />
+  <p>test</p>
   </div>
   <div id="content">
  <table>
